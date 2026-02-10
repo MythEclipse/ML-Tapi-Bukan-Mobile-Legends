@@ -10,3 +10,5 @@ ipykernel
 notebook
 Sastrawi
 nltk
+emoji
+ipywidgets
