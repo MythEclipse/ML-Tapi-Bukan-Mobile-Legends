@@ -1,4 +1,4 @@
-tensorflow
+tensorflow[and-cuda]
 pandas
 numpy
 scikit-learn
@@ -7,3 +7,6 @@ seaborn
 tqdm
 google-play-scraper
 ipykernel
+notebook
+Sastrawi
+nltk
