@@ -1,0 +1,8 @@
+tensorflow
+tensorflowjs
+matplotlib
+pandas
+numpy
+kaggle
+scipy
+pillow
