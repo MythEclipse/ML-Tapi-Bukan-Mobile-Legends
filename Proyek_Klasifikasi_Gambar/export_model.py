@@ -19,9 +19,9 @@ try:
     # PATH SETUP
     # =========================
     base_dir = os.path.dirname(os.path.abspath(__file__))
-    model_path = os.path.join(base_dir, "best_model.keras")
-
     submission_dir = os.path.join(base_dir, "submission")
+
+    model_path = os.path.join(submission_dir, "best_model.keras")
     saved_model_dir = os.path.join(submission_dir, "saved_model")
     tflite_dir = os.path.join(submission_dir, "tflite")
     tfjs_dir = os.path.join(submission_dir, "tfjs")
