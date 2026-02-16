@@ -1,0 +1,5 @@
+dataset_raw/
+dataset_processed/
+dataset_split/
+pokemon.zip
+submission/
