@@ -41,7 +41,7 @@ fsspec==2025.10.0
 gast==0.7.0
 google-pasta==0.2.0
 google-play-scraper==1.2.7
-grpcio==1.78.0
+grpcio==1.85.1
 h11==0.16.0
 h5py==3.15.1
 hf-xet==1.2.0
