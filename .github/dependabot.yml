@@ -125,7 +125,7 @@ updates:
       actions:
         dependency-type: "production"
 
-  # Derived from 232 open Dependabot alerts on
+  # Derived from 223 open Dependabot alerts on
   # /Proyek_Klasifikasi_Gambar — without this lane Dependabot never sees the manifest, so
   # the advisory can never become a PR. Re-derived on every sync; do not edit.
   - package-ecosystem: "pip"
@@ -143,7 +143,7 @@ updates:
       development:
         dependency-type: "development"
 
-  # Derived from 226 open Dependabot alerts on
+  # Derived from 215 open Dependabot alerts on
   # /Analisis_Sentimen — without this lane Dependabot never sees the manifest, so
   # the advisory can never become a PR. Re-derived on every sync; do not edit.
   - package-ecosystem: "pip"
