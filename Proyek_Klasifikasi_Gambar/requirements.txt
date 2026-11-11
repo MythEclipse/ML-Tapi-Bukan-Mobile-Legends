@@ -221,7 +221,7 @@ webencodings==0.6.1
 websocket-client==1.9.0
 Werkzeug==3.1.9
 widgetsnbextension==4.0.15
-wrapt==2.1.1
+wrapt==2.5.2
 wurlitzer==3.1.1
 xxhash==3.6.0
 yarl==1.25.1
