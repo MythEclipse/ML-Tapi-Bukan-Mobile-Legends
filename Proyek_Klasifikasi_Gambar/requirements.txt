@@ -37,7 +37,7 @@ emoji==2.16.0
 etils==1.15.0
 executing==2.2.1
 fastjsonschema==2.22.3
-filelock==3.24.0
+filelock==4.2.9
 flatbuffers==25.12.19
 flax==0.12.12
 fonttools==4.68.0
