@@ -96,7 +96,7 @@ marshmallow==4.4.0
 matplotlib==3.10.8
 matplotlib-inline==0.2.2
 mdurl==0.1.2
-mistune==3.2.0
+mistune==3.3.3
 ml_dtypes==0.5.4
 mpmath==1.4.1
 msgpack==1.2.3
