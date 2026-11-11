@@ -36,7 +36,7 @@ dill==0.4.1
 emoji==2.16.0
 etils==1.13.0
 executing==2.2.1
-fastjsonschema==2.21.2
+fastjsonschema==2.22.3
 filelock==3.24.0
 flatbuffers==25.12.19
 flax==0.12.12
