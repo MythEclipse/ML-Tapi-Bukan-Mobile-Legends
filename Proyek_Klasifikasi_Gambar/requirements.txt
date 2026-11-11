@@ -199,7 +199,7 @@ tinycss2==1.4.0
 tokenizers==0.23.3
 toolz==1.2.0
 torch==2.15.0
-tornado==6.5.4
+tornado==6.6
 tqdm==4.70.1
 traitlets==5.16.1
 transformers==5.1.0
