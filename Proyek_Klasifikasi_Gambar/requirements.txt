@@ -151,7 +151,6 @@ ptyprocess==0.7.0
 pure_eval==0.2.4
 pyarrow==26.0.1
 pycparser==3.12
-Pygments==2.21.0
 pyparsing==3.3.3
 python-dateutil==4.0.0
 python-json-logger==4.2.0
