@@ -100,7 +100,7 @@ mistune==3.4.0
 ml_dtypes==0.6.0
 mpmath==1.4.1
 msgpack==1.2.4
-multidimensional==7.2.1
+multidict==7.2.1
 multiprocess==0.70.19
 mypy_extensions==1.2.0
 namex==0.1.0
