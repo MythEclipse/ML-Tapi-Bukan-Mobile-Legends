@@ -124,3 +124,39 @@ updates:
     groups:
       actions:
         dependency-type: "production"
+
+  # Derived from 232 open Dependabot alerts on
+  # /Proyek_Klasifikasi_Gambar — without this lane Dependabot never sees the manifest, so
+  # the advisory can never become a PR. Re-derived on every sync; do not edit.
+  - package-ecosystem: "pip"
+    directory: "/Proyek_Klasifikasi_Gambar"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "06:00"
+      timezone: "Asia/Jakarta"
+    labels: ["dependencies"]
+    open-pull-requests-limit: 3
+    groups:
+      production:
+        dependency-type: "production"
+      development:
+        dependency-type: "development"
+
+  # Derived from 226 open Dependabot alerts on
+  # /Analisis_Sentimen — without this lane Dependabot never sees the manifest, so
+  # the advisory can never become a PR. Re-derived on every sync; do not edit.
+  - package-ecosystem: "pip"
+    directory: "/Analisis_Sentimen"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "06:00"
+      timezone: "Asia/Jakarta"
+    labels: ["dependencies"]
+    open-pull-requests-limit: 3
+    groups:
+      production:
+        dependency-type: "production"
+      development:
+        dependency-type: "development"
