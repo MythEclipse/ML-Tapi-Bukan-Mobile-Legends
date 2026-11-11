@@ -130,7 +130,7 @@ nvidia-nvjitlink-cu12==12.9.86
 nvidia-nvshmem-cu12==3.4.5
 nvidia-nvtx-cu12==12.9.79
 opt_einsum==3.4.0
-optax==0.2.6
+optax==0.2.8
 optree==0.18.0
 orbax-checkpoint==0.11.32
 orbax-export==0.0.8
