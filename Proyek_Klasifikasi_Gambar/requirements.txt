@@ -104,7 +104,7 @@ multidict==6.7.1
 multiprocess==0.70.18
 mypy_extensions==1.1.0
 namex==0.1.0
-nbclient==0.10.4
+nbclient==0.11.0
 nbconvert==7.17.0
 nbformat==5.10.4
 nest-asyncio==1.6.0
