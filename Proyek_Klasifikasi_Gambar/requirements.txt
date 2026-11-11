@@ -167,7 +167,7 @@ rfc3986-validator==0.1.1
 rfc3987-syntax==1.1.0
 rich==14.3.2
 rpds-py==0.30.0
-safetensors==0.7.0
+safetensors==0.8.0
 Sastrawi==1.0.1
 scikit-learn==1.8.0
 scipy==1.17.0
