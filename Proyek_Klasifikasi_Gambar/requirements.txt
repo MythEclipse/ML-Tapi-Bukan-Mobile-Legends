@@ -34,7 +34,7 @@ decorator==5.2.1
 defusedxml==0.7.1
 dill==0.4.1
 emoji==2.16.0
-etils==1.13.0
+etils==1.15.0
 executing==2.2.1
 fastjsonschema==2.22.3
 filelock==3.24.0
