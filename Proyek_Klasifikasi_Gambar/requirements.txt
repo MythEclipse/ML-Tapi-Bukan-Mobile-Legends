@@ -222,7 +222,7 @@ Werkzeug==3.1.9
 widgetsnbextension==4.0.16
 wrapt==2.5.2
 wurlitzer==3.1.1
-xxhash==4.0.2
+xxhash==4.1.0
 yarl==1.25.1
 ydf==0.17.0
 youtube-comment-downloader==0.1.84
