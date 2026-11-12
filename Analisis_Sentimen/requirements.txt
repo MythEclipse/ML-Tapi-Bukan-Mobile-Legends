@@ -32,7 +32,7 @@ dill==0.4.1
 emoji==2.16.0
 executing==2.3.0
 fastjsonschema==2.22.3
-filelock==4.2.9
+filelock==4.2.10
 flatbuffers==25.12.19
 fonttools==4.68.0
 fqdn==1.6.0
