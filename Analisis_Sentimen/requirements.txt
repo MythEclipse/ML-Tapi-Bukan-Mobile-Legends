@@ -150,7 +150,7 @@ Sastrawi==1.0.1
 scikit-learn==1.9.1
 scipy==1.18.1
 seaborn==0.13.2
-Send2Trash==2.1.0
+Send2Trash==2.2.0
 sentencepiece==0.2.3
 setuptools==84.2.1
 shellingham==1.5.4
