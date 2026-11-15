@@ -202,7 +202,7 @@ tornado==6.6.1
 tqdm==4.70.1
 traitlets==5.16.1
 transformers==5.22.2
-treescope==0.1.10
+treescope==0.1.11
 triton==3.9.0
 typeguard==4.6.0
 typer==0.29.0
