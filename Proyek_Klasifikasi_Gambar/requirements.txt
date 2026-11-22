@@ -176,7 +176,7 @@ sentencepiece==0.2.3
 shellingham==1.5.4
 simplejson==4.2.0
 six==1.17.0
-soupsieve==4.0.1
+soupsieve==4.1.2
 split-folders==0.6.1
 stack-data==0.6.3
 sympy==1.14.0
