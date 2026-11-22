@@ -155,7 +155,7 @@ sentencepiece==0.2.3
 setuptools==84.2.1
 shellingham==1.5.4
 six==1.17.0
-soupsieve==4.0.1
+soupsieve==4.1.2
 stack-data==0.6.3
 sympy==1.14.0
 tensorboard==2.21.0
